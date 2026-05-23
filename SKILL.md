@@ -259,5 +259,4 @@ CNVC全球社区、数千认证培训师、60+国家的NVC实践者
 
 ---
 
-> 本Skill由 [女娲 · Skill造人术](https://github.com/alchaincyf/nuwa-skill) 生成
-> 创建者：[花叔](https://x.com/AlchainHust)
+> 本Skill由 yeafel 使用 [女娲 · Skill造人术](https://github.com/alchaincyf/nuwa-skill) 蒸馏生成，感谢花叔创造的蒸馏工具。
