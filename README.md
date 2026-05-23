@@ -74,7 +74,7 @@ npx skills add rosenberg-perspective
 
 ## 构建工具
 
-本 Skill 由 [女娲 Skill 造人术](https://github.com/alchaincyf/nuwa-skill) 蒸馏生成，创建者：[花叔](https://x.com/AlchainHust)。
+本 Skill 由 yeafel 使用 [女娲 Skill 造人术](https://github.com/alchaincyf/nuwa-skill) 蒸馏生成，感谢花叔创造的蒸馏工具。
 
 ## License
 
