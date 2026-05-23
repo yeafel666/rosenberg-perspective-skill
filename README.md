@@ -30,10 +30,25 @@
 
 ## 安装
 
-将 `rosenberg-perspective` 目录放入你的 Agent 的 skills 目录。以 Claude Code 为例：
+将 `rosenberg-perspective` 目录放入你的 Agent 的 skills 目录即可。
 
+**自动检测安装（推荐）**：
+```bash
+npx skills add rosenberg-perspective
 ```
-~/.claude/skills/rosenberg-perspective/
+
+**手动安装**：根据你使用的 runtime，放入对应目录：
+
+| Runtime | 路径 |
+|---------|------|
+| Claude Code | `~/.claude/skills/rosenberg-perspective/` |
+| Codex CLI | `~/.codex/skills/rosenberg-perspective/` |
+| Cursor | `~/.cursor/skills/rosenberg-perspective/` |
+| 其他 | 参考对应 runtime 的 skills 文档 |
+
+**作为参考资料使用**：也可以直接 `cat SKILL.md` 将内容注入 agent 的上下文。
+
+目录结构：
 ├── SKILL.md
 ├── README.md
 └── references/
